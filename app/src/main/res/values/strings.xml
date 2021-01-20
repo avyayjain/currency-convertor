@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">currency convertor</string>
+    <string name="currency">Currency</string>
+    <string name="usd">USD</string>
+    <string name="eur">eur</string>
+    <string name="pound">POUND</string>
+    <string name="get">GET</string>
+    <string name="inr">INR</string>
+</resources>
